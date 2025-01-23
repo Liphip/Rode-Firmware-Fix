@@ -15,6 +15,7 @@ This repository contains, preserves, and backs up the content of the [Reddit pos
 4. Follow the instructions provided in the Reddit post to apply the firmware fix using `RODE NT-USB.bin`.
 
 ### Reddit Post Content
+[u/Upper-Farmer4925 originally posted this solution on Reddit including a link to the](https://www.reddit.com/r/rode/comments/1avhtdf/fixing_rode_nt_usb_problem_not_recognized/) - [Config6400.zip](Config6400.zip)
 
 #### Fixing RODE NT USB problem (not recognized)
 
@@ -30,7 +31,9 @@ And then click on EEPROM -> FILE to copy the firmware to the computer
 
 To fix broken firmware you need to take steps 1 and 2, but in 3 instead of EEPROM -> FILE you need to select FILE -> EEPROM and select file from comments then don't touch the program until it tells you that you can disable the micro, then disable it and voila connect again and its works, you don't need to buy a new one
 
+----
 #### HID Device Error
+[u/AlexUwU02 provided a solution for the HID device error](https://www.reddit.com/r/rode/comments/1avhtdf/comment/l9ivfut/)
 
 FOR ANYONE HAVING THE ISSUE OF "cannot find HID device !!!"
 
@@ -44,7 +47,9 @@ Input the 4 characters after VID and PID into Config6400 (Mine were VID - 0D8C, 
 
 Click connect then upload the .bin using FILE -> EEPROM
 
+----
 #### Firmware Details
+[u/Upper-Farmer4925 provided the firmware file](https://www.reddit.com/r/rode/comments/1avhtdf/comment/kselvx4/) - [RODE NT-USB.bin](RODE%20NT-USB.bin)
 
 FIRMWARE
 
